@@ -1,0 +1,30 @@
+{
+  "home": {
+    "PageName": "Home",
+    "Header": "HomeHeader",
+    "Body": "Home",
+    "Footer": "Default",
+    "Redirect": ""
+  },
+  "about": {
+    "PageName": "Standard Page",
+    "Header": "Default",
+    "Body": "About",
+    "Footer": "Default",
+    "Redirect": ""
+  },
+  "404": {
+    "PageName": "404 Not Found!",
+    "Header": "Default",
+    "Body": "404",
+    "Footer": "Default",
+    "Redirect": ""
+  },
+  "externallink": {
+    "PageName": "Some External Link",
+    "Header": "",
+    "Body": "",
+    "Footer": "",
+    "Redirect": "https://google.com"
+  }
+}
